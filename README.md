@@ -19,7 +19,7 @@ An end-to-end, production-ready pipeline for detecting helmets using the YOLOv11
 11. [Perform Batch Inference on Test Set](#11-perform-batch-inference-on-test-set)
 12. [Single-Image Inference Example](#12-single-image-inference-example)
 13. [Video Stream Processing](#13-video-stream-processing)
-14. [Real‑Time Webcam Deployment](#14-real-time-webcam-deployment)
+14. [Real‑Time Webcam Deployment](#14-realtime-webcam-deployment)
 
 ---
 
